@@ -582,6 +582,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[e2e](https://github.com/e2e-inc/e2e)** – Open-source end-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions.
 - **[Momentic](https://momentic.ai)** – End-to-end testing for web apps in Chromium and mobile apps on hosted iOS simulators and Android emulators, with YAML tests and an MCP server that lets coding agents write, run, and triage them.
 - **[VibeRaven](https://github.com/ohad6k/VibeRaven)** – Gives coding agents a local PostgreSQL race test with replay and reviews Supabase migrations for RLS and Data API grant gaps.
+- **[Apex verify](https://github.com/apex-engine-dev/apex-verify)** – Checks whether an AI coding agent's change does what was asked: a second model writes checks from the task without seeing the change, proves they fail on the old code, and gives a verdict with evidence. CLI, GitHub Action and Claude Code plugin.
 
 ---
 
