@@ -982,6 +982,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Tuvio](https://tuvio.dev/)** – Security scans for AI-built apps, with AI-reviewed fix prompts for your coding assistant.
 - **[GuardLink](https://github.com/Bugb-Technologies/guardlink)** – Open-source (MIT) threat modeling as code: security annotations in source comments form the threat model, which is validated and diffed in CI, exported as SARIF, and kept current by AI coding agents (Claude Code, Cursor, Codex) through its MCP server and agent instruction files.
 - **[How Could I Be Hacked](https://github.com/sandhiveio/How-Could-I-Be-Hacked)** – Coding-agent skill that adapts security checks from open-source reviews to PR diffs and reports local results and coverage beyond existing tests.
+- **[Caelo](https://github.com/arthi-arumugam-git/caelo)** – Free, local, MIT-licensed security scanner for AI-built apps. Finds exposed API keys, Supabase service-role keys, secrets leaked to the browser bundle, open Firebase rules, missing Supabase RLS, and committed .env files. Runs as a CLI, an MCP server (roast_project), and a GitHub Action.
 
 ---
 
