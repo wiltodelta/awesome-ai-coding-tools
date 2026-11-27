@@ -276,6 +276,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Muxflow](https://gal064.github.io/muxflow/)** – Open-source, remote-first tmux IDE for coding agents: runs Claude Code, Codex and pi on local and SSH hosts, with notifications on desktop and phone and voice replies.
 - **[OnBuzz](https://onbuzz.loxia.ai/?utm_source=github&utm_medium=list&utm_campaign=awesome-ai-coding-tools)** – Browser and desktop harness for a small team of AI coding agents (coder, reviewer, tester) that hand work to each other, each on its own model (local models supported), with approval before commands or file edits. Free plan.
 - **[Filo](https://filoapp.dev/)** – Desktop app that runs Claude Code, Codex, Antigravity, OpenCode, pi and Grok side by side in threads, each the real CLI agent with its own sessions, with per-thread change tracking and cross-agent review.
+- **[Ladder](https://itsladder.dev)** – Free, open-source macOS workspace that runs Claude Code, Codex and ACP agents across many repos, with approvals, git worktrees and executable plans.
 
 ---
 
