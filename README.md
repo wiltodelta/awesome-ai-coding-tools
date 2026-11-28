@@ -1097,6 +1097,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Senrelay (ContextCore)](https://senrelay.com/en/)** – Local-first macOS workbench and MCP server for cross-agent session relay (`/contextcore` full-transcript paging), source-cited SQLite FTS5 memory, and snapshot-guarded config sync across Claude Code, Codex, Cursor, Antigravity, OMP, and OpenCode. Open-source MIT ([GitHub](https://github.com/qingsongcui/ContextCore)).
 - **[Chab](https://www.chab.ai)** – Hosted MCP server and CLI with 151 tools for coding agents like Claude Code and Codex, for example Google results from any city and keyword search volumes. Free start with 50 credits.
 - **[notiferry-mcp](https://github.com/n2ctech/notiferry-mcp)** – Zero-dependency MCP server, Claude Code plugin, and Agent Skill that sends iPhone and Apple Watch push notifications via ntfy when coding agents finish or wait for permission. MIT.
+- **[SaaSCity MCP](https://saascity.io/mcp)** – Keyless remote Streamable HTTP MCP server (`https://saascity.io/api/mcp`) for Claude Code, Cursor, Codex and any MCP client: checks site launch readiness, matches startup launch directories with DR and link metadata, runs SaaS metric calculators, verifies backlinks, and submits products to SaaSCity with no API key required.
 
 ---
 
