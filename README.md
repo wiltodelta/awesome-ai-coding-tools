@@ -529,6 +529,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Grapim](https://github.com/grapim/grapim)** – Open-source pull request reviewer for code written by coding agents (Claude Code, Codex, Cursor), which flags changes the agent was not asked to make. Runs as a GitHub App or as a GitHub Action on your own model key.
 - **[opendrs](https://github.com/error-path/opendrs)** – Open-source PR risk score and blast radius analyzer: a calibrated 0-1 score from git history and the import graph, used to auto-approve low-risk PRs after an AI review passes. GitHub Action, CLI and MCP server.
 - **[verifair](https://github.com/romanzdk/verifair)** – Self-hosted place where coding agents publish change reports (intent, evidence, verification) and people comment, sign and approve them. Open source (MIT).
+- **[RevHive](https://github.com/jovian-zhibai/RevHive)** – CLI and GitHub App that runs nine specialised reviewers over one diff (security, performance, logic, tests, style, refactor, docs, repo context, fix suggestions), then merges duplicates and arbitrates conflicting verdicts. Bring your own model endpoint — a self-hosted gateway or Ollama keeps the diff inside your network. Source-available under BSL 1.1; `pip install revhive-ai`.
 
 ---
 
