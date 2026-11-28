@@ -383,6 +383,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[TernaryCode](https://github.com/ilhamnadhif/ternarycode)** – Native Rust desktop workspace (macOS, Windows, Linux) for running multiple Claude Code, Codex, OpenCode, and Antigravity CLI sessions across projects with hook-backed status alerts, multi-account failover with real 5-hour/weekly limits, git worktrees, an embedded MCP browser, and a local Wi-Fi phone companion. Free, MIT.
 - **[Orion Handoff](https://github.com/OrionArchitekton/orion-handoff)** – Local MIT CLI that saves bounded coding-agent task context in immutable revisions; the next session selects the task and reviews what is still uncertain before continuing, and handoff data never grants permission to act.
 - **[Glyph Rig](https://github.com/fru-dev3/glyph)** – Open-source zsh CLI that names every Claude Code, Codex and Antigravity session with a label, the project, the machine and the start time, and reports each agent's remaining quota.
+- **[tagteam](https://github.com/MHRabea/tagteam)** – Open-source CLI that hands a coding task between Claude Code, Codex, and Claude Code on other providers via a structured handoff (task, done, next action, constraints, tests). Handoffs record git state so the next agent is warned about drift, and path constraints are checked against the diff with a CI-friendly exit code. MCP server + Claude Code hooks. Apache-2.0.
 
 ---
 
