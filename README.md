@@ -381,6 +381,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[HAPI-Rust](https://github.com/Overbaker/hapi-rust)** – Open-source, local-first remote controller and 4.4 MiB Rust session wrapper for running 100+ Claude Code, Codex, Antigravity, and Pi sessions from any browser/PWA with automatic 24h idle hibernation. AGPL-3.0.
 - **[TernaryCode](https://github.com/ilhamnadhif/ternarycode)** – Native Rust desktop workspace (macOS, Windows, Linux) for running multiple Claude Code, Codex, OpenCode, and Antigravity CLI sessions across projects with hook-backed status alerts, multi-account failover with real 5-hour/weekly limits, git worktrees, an embedded MCP browser, and a local Wi-Fi phone companion. Free, MIT.
 - **[Orion Handoff](https://github.com/OrionArchitekton/orion-handoff)** – Local MIT CLI that saves bounded coding-agent task context in immutable revisions; the next session selects the task and reviews what is still uncertain before continuing, and handoff data never grants permission to act.
+- **[Glyph Rig](https://github.com/fru-dev3/glyph)** – Open-source zsh CLI that names every Claude Code, Codex and Antigravity session with a label, the project, the machine and the start time, and reports each agent's remaining quota.
 
 ---
 
