@@ -1096,7 +1096,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[LeadMerlin](https://github.com/HalberdLLC/leadmerlin-mcp)** – MCP server that searches local businesses (Google Maps) by niche and city and enriches each one with owner name, emails checked against the mail server, phone line type and website tech. Remote endpoint `https://api.leadmerlin.com/mcp` or a zero-dependency stdio bridge via `npx -y github:HalberdLLC/leadmerlin-mcp`. API key; 100 free leads on signup, `check_website_tech` free without a key. MIT.
 - **[Senrelay (ContextCore)](https://senrelay.com/en/)** – Local-first macOS workbench and MCP server for cross-agent session relay (`/contextcore` full-transcript paging), source-cited SQLite FTS5 memory, and snapshot-guarded config sync across Claude Code, Codex, Cursor, Antigravity, OMP, and OpenCode. Open-source MIT ([GitHub](https://github.com/qingsongcui/ContextCore)).
 - **[Chab](https://www.chab.ai)** – Hosted MCP server and CLI with 151 tools for coding agents like Claude Code and Codex, for example Google results from any city and keyword search volumes. Free start with 50 credits.
-
 - **[notiferry-mcp](https://github.com/n2ctech/notiferry-mcp)** – Zero-dependency MCP server, Claude Code plugin, and Agent Skill that sends iPhone and Apple Watch push notifications via ntfy when coding agents finish or wait for permission. MIT.
 
 ---
