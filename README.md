@@ -277,6 +277,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OnBuzz](https://onbuzz.loxia.ai/?utm_source=github&utm_medium=list&utm_campaign=awesome-ai-coding-tools)** – Browser and desktop harness for a small team of AI coding agents (coder, reviewer, tester) that hand work to each other, each on its own model (local models supported), with approval before commands or file edits. Free plan.
 - **[Filo](https://filoapp.dev/)** – Desktop app that runs Claude Code, Codex, Antigravity, OpenCode, pi and Grok side by side in threads, each the real CLI agent with its own sessions, with per-thread change tracking and cross-agent review.
 - **[Ladder](https://itsladder.dev)** – Free, open-source macOS workspace that runs Claude Code, Codex and ACP agents across many repos, with approvals, git worktrees and executable plans.
+- **[Open Max](https://github.com/Max17190/open-max)** – A high-performance, self-extensible terminal coding agent harness in Rust, optimized for prompt caching. The agent can write new tools and skills as files and call them on its next step. Works with any OpenAI-compatible, Anthropic, or local model. MIT.
 
 ---
 
