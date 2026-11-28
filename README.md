@@ -940,6 +940,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Reliant Forge](https://github.com/reliant-labs/forge)** – Open-source Go and React framework and CLI built for coding agents, with scaffolding, linters for bugs common in agent-written code, an MCP server, and deploys that need no account.
 - **[LogLens](https://github.com/YaBoom/loglens-zyt)** – Open-source AI log analysis CLI that feeds raw production logs to LLMs (DeepSeek or any OpenAI-compatible API) and returns root-cause analysis with fix suggestions in seconds. Offers CLI, Web UI, and real-time monitoring mode; installable via `pip install loglens-zyt`.
 - **[Sandscale](https://sandscale.dev)** – Sandbox for AI coding agents: each run gets its own Firecracker microVM, with MCP support for Claude Code, Codex and Cursor and a TypeScript SDK. Free plan available.
+- **[Farna Control](https://github.com/farnalabs/farna-control)** – Self-hosted, air-gap capable Delivery Governance Platform: pipelines of agent, manual and human approval nodes with optional eval gates, run snapshots, and hash-chained audit events for governance decisions. Source-available (BUSL 1.1), free Community edition, alpha.
 
 ---
 
