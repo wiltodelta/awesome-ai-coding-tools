@@ -872,6 +872,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Dopamine Talk](https://github.com/AnnenkovLabs/dopamine-talk)** – Three MIT-licensed Markdown skills (`dopamine-talk`, `dopamine-changelog`, `dopamine-readme`) and a one-line installer for 20+ coding agents (Claude Code, Codex, Cursor, Antigravity, Gemini CLI, Copilot, Windsurf) that cut file-path recaps, hedging disclaimers, boilerplate padding, and unasked critic-gate suggestions. Native English and Russian editions; zero dependencies.
 - **[Codex Desk](https://github.com/blucca/codex-desk)** – Local MIT browser workbench for native Codex: reopen saved project conversations, inspect command/MCP results, and review task evidence before handing work into a new provider thread.
 - **[agy-usage](https://github.com/qiudai0627/agy-usage)** – Zero-dependency local quota and token usage monitor for Google Antigravity with a macOS notch-safe floating pill, Windows taskbar widget, CLI statusline, and 11-language web dashboard tracking Gemini and Claude/GPT 5h/7d reset timers. Free and open source (MIT).
+- **[FreeAITokens](https://freeaitokens.co)** – Local endpoint and desktop app that routes each request across the free tiers of AI providers and fails over when one hits its limit.
 
 ---
 
