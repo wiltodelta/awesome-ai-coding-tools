@@ -583,6 +583,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Momentic](https://momentic.ai)** – End-to-end testing for web apps in Chromium and mobile apps on hosted iOS simulators and Android emulators, with YAML tests and an MCP server that lets coding agents write, run, and triage them.
 - **[VibeRaven](https://github.com/ohad6k/VibeRaven)** – Gives coding agents a local PostgreSQL race test with replay and reviews Supabase migrations for RLS and Data API grant gaps.
 - **[Apex verify](https://github.com/apex-engine-dev/apex-verify)** – Checks whether an AI coding agent's change does what was asked: a second model writes checks from the task without seeing the change, proves they fail on the old code, and gives a verdict with evidence. CLI, GitHub Action and Claude Code plugin.
+- **[100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill)** – Free, open-source skill and CLI that makes coding agents state formal properties, run the checks, and record review evidence before reporting work done.
 
 ---
 
